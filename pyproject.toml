@@ -1,0 +1,11 @@
+[project]
+name = "it-helpdesk-csv-sla-lab"
+version = "0.1.0"
+description = "CSV helpdesk management lab for synthetic tickets, SLA calculation, open queue summary, and productivity report."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

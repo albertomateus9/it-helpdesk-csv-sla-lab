@@ -1,0 +1,5 @@
+ticket_id,category,technician,opened_at,closed_at,status,sla_hours
+T001,Lab computer,Ana,2026-03-01 08:30,2026-03-01 10:20,closed,4
+T002,Wi-Fi,Beto,2026-03-01 09:10,2026-03-01 15:40,closed,6
+T003,Projector,Cora,2026-03-01 11:00,,open,8
+T004,Login,Ana,2026-03-02 08:00,2026-03-02 09:00,closed,4
